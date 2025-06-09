@@ -1,8 +1,8 @@
 ===  ACF Post-2-Post ===
 Contributors: Hube2
-Tags: acf, advanced custom fields, add on, bidirectional, 2 way, two way, relationship
+Tags: acf, bidirectional relationship
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 1.7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
