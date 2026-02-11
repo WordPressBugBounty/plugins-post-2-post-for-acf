@@ -3,7 +3,7 @@
 	/*
 		Plugin Name: ACF Post-2-Post
 		Plugin URI: https://wordpress.org/plugins/post-2-post-for-acf/
-		Description: Two way relationship fields
+		Description: Automatically creates a bidirectional relationship for realationship and post object fields when these fields have the same name in all locations where they are present. See the readme.txt time for details on how to disable this automatic functionality on specific fields.
 		Version: 1.7.0
 		Author: John A. Huebner II
 		Author URI: https://github.com/Hube2
